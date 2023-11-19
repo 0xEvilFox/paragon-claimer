@@ -1,0 +1,15 @@
+{
+  "name": "paragon-claimer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deimos",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "readline-sync": "^1.4.10"
+  }
+}
